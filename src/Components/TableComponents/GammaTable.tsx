@@ -21,17 +21,12 @@ wineData.forEach((entry) => {
     
     groupedByAlcohol[alcohol].push(gamma);
 });
-  
-
-  console.log(groupedByAlcohol, "groupedByAlcoholgemma");
 
   const groupedByAlcoholObject = Object.entries(groupedByAlcohol).map(
     ([alcohol, gemma]) => {
       return { alcohol, gemma };
     }
   );
-
-  console.log(groupedByAlcoholObject, "groupedByAlcoholObjectgemma");
 
   const ths = (
     <Table.Tr>
