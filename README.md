@@ -1,3 +1,12 @@
+# Statistical Tables
+
+![alt text](./src/Assets/flav.PNG)
+![alt text](./src/Assets/gemma.PNG)
+
+# Directly access this project on below link
+
+It is hosted on [https://wine-data-statistics.web.app/](https://wine-data-statistics.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
