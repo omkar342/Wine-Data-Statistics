@@ -1,6 +1,9 @@
 # Statistical Tables
 
+## Flavanoids Statistical Table
 ![alt text](./src/Assets/flav.PNG)
+
+## Gemma Statistical Table
 ![alt text](./src/Assets/gemma.PNG)
 
 # Directly access this project on below link
